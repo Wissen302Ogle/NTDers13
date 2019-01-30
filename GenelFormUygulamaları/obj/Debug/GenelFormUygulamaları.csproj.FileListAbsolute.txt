@@ -1,0 +1,10 @@
+c:\users\section2\source\repos\NTDers13\GenelFormUygulamaları\bin\Debug\GenelFormUygulamaları.exe.config
+c:\users\section2\source\repos\NTDers13\GenelFormUygulamaları\bin\Debug\GenelFormUygulamaları.exe
+c:\users\section2\source\repos\NTDers13\GenelFormUygulamaları\bin\Debug\GenelFormUygulamaları.pdb
+c:\users\section2\source\repos\NTDers13\GenelFormUygulamaları\obj\Debug\GenelFormUygulamaları.csprojResolveAssemblyReference.cache
+c:\users\section2\source\repos\NTDers13\GenelFormUygulamaları\obj\Debug\GenelFormUygulamaları.Form1.resources
+c:\users\section2\source\repos\NTDers13\GenelFormUygulamaları\obj\Debug\GenelFormUygulamaları.Properties.Resources.resources
+c:\users\section2\source\repos\NTDers13\GenelFormUygulamaları\obj\Debug\GenelFormUygulamaları.csproj.GenerateResource.cache
+c:\users\section2\source\repos\NTDers13\GenelFormUygulamaları\obj\Debug\GenelFormUygulamaları.csproj.CoreCompileInputs.cache
+c:\users\section2\source\repos\NTDers13\GenelFormUygulamaları\obj\Debug\GenelFormUygulamaları.exe
+c:\users\section2\source\repos\NTDers13\GenelFormUygulamaları\obj\Debug\GenelFormUygulamaları.pdb
